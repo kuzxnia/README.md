@@ -1,5 +1,5 @@
 ## Hi there! I'm Kacper (@kuzxnia) 👋
-I'm an Engineer based in Gdynia 🏖️ in the Poland 🇵🇱
+I'm an Engineer based in Gdynia 🏖️ in Poland 🇵🇱
 
 Right about now I'm a Backend Engineer [@allegro](https://github.com/allegro)
 
